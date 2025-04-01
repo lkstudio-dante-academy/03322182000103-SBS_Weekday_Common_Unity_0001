@@ -1,15 +1,9 @@
 #define EXAMPLE
 #define PRACTICE
 
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Example
 {
-	class Program
+	internal class Program
 	{
 		static void Main(string[] args)
 		{
@@ -21,8 +15,6 @@ namespace Example
 			//_03020103000101_SBS_Weekday_Engine_0001.E01.Practice.Classes.Runtime.Practice_01.CP01Practice_01.Start(args);
 			_03020103000101_SBS_Weekday_Engine_0001.E01.Practice.Classes.Runtime.Practice_02.CP01Practice_02.Start(args);
 #endif // #if EXAMPLE
-
-			Console.ReadKey();
 		}
 	}
 }
