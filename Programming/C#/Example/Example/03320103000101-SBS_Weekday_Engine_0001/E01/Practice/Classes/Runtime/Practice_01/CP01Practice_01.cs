@@ -282,7 +282,7 @@ namespace Example._03320103000101_SBS_Weekday_Engine_0001.E01.Practice.Classes.R
 			 * A _ _ l _
 			 * 문자 입력 : b
 			 * 
-			 * 이하 생략...
+			 * ...이하 생략
 			 * 
 			 * A p p l e
 			 * 게임을 종료합니다.
