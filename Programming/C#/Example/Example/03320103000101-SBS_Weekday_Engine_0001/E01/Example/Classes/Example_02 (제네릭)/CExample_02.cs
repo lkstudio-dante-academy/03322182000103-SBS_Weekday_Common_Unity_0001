@@ -177,7 +177,7 @@ namespace Example.Classes.Example_02 {
 				oValList02.AddVal($"{i + 1}");
 			}
 
-			Console.WriteLine("=====> 리스트 요소 <=====");
+			Console.WriteLine("=====> 리스트 <=====");
 
 			for(int i = 0; i < oValList01.GetNumVals(); ++i) {
 				Console.Write("{0}, ", oValList01.GetVal(i));

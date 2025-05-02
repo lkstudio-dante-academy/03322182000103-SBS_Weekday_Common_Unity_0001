@@ -299,7 +299,7 @@ namespace Example._03320103000101_SBS_Weekday_Engine_0001.E01.Example.Classes.Ru
 				oValList.Add(oRandom.Next(1, 100));
 			}
 
-			Console.WriteLine("=====> 리스트 요소 <=====");
+			Console.WriteLine("=====> 리스트 <=====");
 
 			for(int i = 0; i < oValList.Count; ++i)
 			{

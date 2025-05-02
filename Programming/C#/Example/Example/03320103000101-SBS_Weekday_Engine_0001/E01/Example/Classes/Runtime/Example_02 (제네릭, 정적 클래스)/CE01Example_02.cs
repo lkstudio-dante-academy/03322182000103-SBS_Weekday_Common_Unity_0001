@@ -294,7 +294,7 @@ namespace Example._03320103000101_SBS_Weekday_Engine_0001.E01.Example.Classes.Ru
 				oValList02.AddVal($"{i + 1}");
 			}
 
-			Console.WriteLine("=====> 리스트 요소 <=====");
+			Console.WriteLine("=====> 리스트 <=====");
 
 			for(int i = 0; i < oValList01.GetNumVals(); ++i)
 			{
